@@ -1,7 +1,8 @@
-# AWS VPC Project - Ronny Global Services
 ![Alt text](Ref Diagram-Ronny-Global -Create VPC-SUBNET-Private and Public.png)
-## Project Overview
 
+# AWS VPC Project - Ronny Global Services
+
+## Project Overview
 This project involved the creation of a secure and scalable Virtual Private Cloud (VPC) for **Ronny Global Services** using AWS resources. The VPC includes both **public** and **private subnets** distributed across two Availability Zones (AZs) to ensure **high availability** and **fault tolerance**. An **Internet Gateway** was attached to the VPC to enable Internet connectivity for the resources in the public subnet. Proper tagging was applied to all deployed resources for better organization and management.
 
 ---
