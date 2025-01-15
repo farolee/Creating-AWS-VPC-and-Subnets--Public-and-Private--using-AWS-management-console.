@@ -1,4 +1,4 @@
-![]Screenshot(6).png
+![](/image/Screenshot(6).png)
 
 ---
 # AWS VPC Project - Ronny Global Services
