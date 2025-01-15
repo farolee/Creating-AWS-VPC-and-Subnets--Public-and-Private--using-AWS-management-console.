@@ -1,5 +1,7 @@
 ![Alt text](Ref Diagram-Ronny-Global -Create VPC-SUBNET-Private and Public.png)
 
+
+
 # AWS VPC Project - Ronny Global Services
 
 ## Project Overview
