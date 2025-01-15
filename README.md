@@ -1,4 +1,4 @@
-![Alt text](Screenshot (6).png)
+
 
 ---
 # AWS VPC Project - Ronny Global Services
@@ -11,7 +11,7 @@ This project involved the creation of a secure and scalable Virtual Private Clou
 ## Architecture Diagram
 
 *(Please refer to the attached reference diagram for the complete architecture layout.)*
-
+![Alt text](Screenshot (6).png)
 ---
 
 ## Resources Deployed
