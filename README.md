@@ -1,4 +1,4 @@
-![Alt text](Ref Diagram-Ronny-Global -Create VPC-SUBNET-Private and Public.png)
+![Alt text](README.md)
 
 
 
