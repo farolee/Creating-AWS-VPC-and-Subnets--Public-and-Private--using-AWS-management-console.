@@ -1,4 +1,4 @@
-![Alt Screenshot(6).png]Screenshot(6).png
+![AltScreenshot(6).png]Screenshot(6).png
 
 ---
 # AWS VPC Project - Ronny Global Services
