@@ -1,4 +1,4 @@
-![Alt text]
+
 
 ---
 # AWS VPC Project - Ronny Global Services
