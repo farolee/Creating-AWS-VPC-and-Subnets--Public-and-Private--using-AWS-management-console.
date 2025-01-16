@@ -1,4 +1,4 @@
-![image](Screenshot(6).png)
+![image](VPC Subet-private and public.png)
 
 ---
 # AWS VPC Project - Ronny Global Services
